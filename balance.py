@@ -10,7 +10,7 @@ def balance_check():
         else:
             print("mobile number in invalid")
     else:
-        print("account invalid")  
+        print("account invalid") 
             
 
 
